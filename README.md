@@ -10,7 +10,7 @@ This repository contains practical implementations of fundamental numerical meth
 
 ### Lab Instructors:
 - **Ayman Rasheed [ARD]** - 2022 ICPC World Finalist from Dhaka University
-- **Atonu Roy Chowdhury [CARC]**
+- **Atonu Roy Chowdhury [CARC]** -  leader of the Bangladesh team in European Girls’ Mathematical Olympiad (EGMO) 2024, Academic Coordinator of Gonitkonya—Bangladesh Girls’ Mathematics Foundation and trainer at Bangladesh Mathematical Olympiad camps
 
 ### Theory Instructor:
 - **Saadat Rahin** - Former Data Scientist at Robi
