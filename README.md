@@ -4,7 +4,7 @@ A comprehensive repository containing lab implementations and solutions for the 
 
 ## Course Overview
 
-This repository contains practical implementations of fundamental numerical methods and algorithms covered in the CSE330 Numerical Methods course at BRAC University. The implementations focus on computational techniques for solving mathematical problems that cannot be solved analytically, including interpolation, differentiation, integration, solving nonlinear equations, and numerical linear algebra.
+This repository contains practical implementation of fundamental numerical methods and algorithms covered in the CSE330 Numerical Methods course at BRAC University. The implementations focus on computational techniques for solving mathematical problems that cannot be solved analytically, including interpolation, differentiation, integration, solving nonlinear equations, and numerical linear algebra.
 
 ## Faculty Information
 
