@@ -7,13 +7,41 @@ A comprehensive repository containing lab implementations and solutions for the 
 This repository contains practical implementation of fundamental numerical methods and algorithms covered in the CSE330 Numerical Methods course at BRAC University. The implementations focus on computational techniques for solving mathematical problems that cannot be solved analytically, including interpolation, differentiation, integration, solving nonlinear equations, and numerical linear algebra.
 
 ## Faculty Information
+To visualize the instructors' profiles on GitHub README, I'll create a professional and visually appealing presentation using badges, icons, and proper formatting. Here's how you can implement this:
 
-### Lab Instructors:
-- **Ayman Rasheed [ARD]** - 2022 ICPC World Finalist from Dhaka University
-- **Atonu Roy Chowdhury [CARC]** -  leader of the Bangladesh team in European Girls’ Mathematical Olympiad (EGMO) 2024, Academic Coordinator of Gonitkonya—Bangladesh Girls’ Mathematics Foundation and trainer at Bangladesh Mathematical Olympiad camps
+## Instructor Profiles with Visual Elements
 
-### Theory Instructor:
-- **Saadat Rahin** - Former Data Scientist at Robi
+### Lab Instructors
+
+#### Ayman Rasheed
+[![GitHub](https://img.shields.io/badge/GitHub-aymanrasheed7-blue?logo=github)](https://github.com/aymanrasheed7)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Candidate%20Master-purple?logo=codeforces)](https://codeforces.com/profile/aymanrasheed7)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=aymanrasheed7)](https://codeforces.com/profile/aymanrasheed7)
+- 🏆 **2022 ICPC World Finalist** (Rank 35) representing University of Dhaka
+- 💻 Notable projects:
+  - `NetOpt`: Hardware-accelerated resistor network optimization
+  - `BasicRIPv1`: Routing Information Protocol simulation
+
+#### Atonu Roy Chowdhury
+[![GitHub](https://img.shields.io/badge/GitHub-atonurc-blue?logo=github)](https://github.com/atonurc)
+[![Portfolio](https://img.shields.io/badge/Portfolio-atonurc.github.io-green?logo=github)](https://atonurc.github.io/)
+- 🏅 **Team Leader** of Bangladesh at European Girls' Mathematical Olympiad (EGMO) 2024
+- 📚 **Academic Coordinator** at Gonitkonya-Bangladesh Girls' Mathematics Foundation
+- 🧮 **Trainer** at Bangladesh Mathematical Olympiad camps
+
+### Theory Instructor
+
+#### Saadat Rafid Ahmed
+[![GitHub](https://img.shields.io/badge/GitHub-saadat--r--ahmed-blue?logo=github)](https://github.com/saadat-r-ahmed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saadat%20Rafid%20Ahmed-blue?logo=linkedin)](https://www.linkedin.com/in/saadat-r-ahmed/)
+- 📊 **Former Data Scientist** at Robi Axiata Ltd.
+- 📊 **Former Data Scientist** at Robi Axiata Ltd.
+- 🤖 Key projects:
+  - `spamMailClassifier`: Email classification using machine learning
+  - `mendingMinds`: Mental health forum platform
+
+---
+
 
 ## Topics Covered
 
