@@ -40,17 +40,39 @@ To visualize the instructors' profiles on GitHub README, I'll create a professio
   - `mendingMinds`: Mental health forum platform
 
 ---
-## Resources
-Textbook: https://drive.google.com/file/d/1zr8HdKn33YSs2Uo0403lRNIkD-6z-mtz/view?usp=drive_link
-Outline: https://drive.google.com/file/d/1Q0jDBReNjEUyS1B3ADXhBi0eUc6nOrGs/view?usp=drive_link
-Materials: https://drive.google.com/drive/folders/1z_yfver8YOB7wnHXmtlM7VnAkxLLcyRp?usp=sharing
-Practice Problem: https://docs.google.com/document/d/136wMu5dmk323HlL58XdnMPJUq0MjJh5TdgERVfDgt0A/edit?tab=t.0 
-Assignment 4 Solution (Access it using Gsuite): https://drive.google.com/file/d/1BfZsdcxzNJ8BQa2tRlfKOSxB7qGDxGo3/view?usp=drive_link
-Assignment 5 Solution (Access it using Gsuite): https://drive.google.com/file/d/1sEXWPrZf7muA43UH02D3QZLglp6GJ5HR/view?usp=drive_link 
-Aquib Azmain sir's Materials: https://docs.google.com/document/d/1Etnt2GUvRwcjQG1m0yZUozbjv488pCtuizeOM3KqIIQ/edit?tab=t.0 , https://drive.google.com/drive/folders/17-QizJALELypGv67sxp2jn6XnVds3Hvx?usp=drive_link
-Rafeed Rahmans Sir’s Materials: https://docs.google.com/document/d/1iBB0qw32X-3nGlKcYcpWWIX0X0gQtUf4DEGzCzC9CLs/edit?tab=t.0
-Abhijit Biswas Sit's Materials: https://drive.google.com/drive/folders/1aeukK_8Fmv3oniUc7vGbt6J5tOQA7C7_?usp=sharing
-Sadat Rafis Sir's Online class : https://saadat-r-ahmed.notion.site/Online-Class-Archive-SADF-19d658b6e40b80479ebec64a9d4de644 
+# Course Resources
+
+## 📚 Core Materials
+- **Textbook**: [Download PDF](https://drive.google.com/file/d/1zr8HdKn33YSs2Uo0403lRNIkD-6z-mtz/view?usp=drive_link)
+- **Course Outline**: [View Outline](https://drive.google.com/file/d/1Q0jDBReNjEUyS1B3ADXhBi0eUc6nOrGs/view?usp=drive_link)
+- **Course Materials**: [Access Folder](https://drive.google.com/drive/folders/1z_yfver8YOB7wnHXmtlM7VnAkxLLcyRp?usp=sharing)
+
+## 📝 Practice & Assignments
+- **Practice Problems**: [Solve Here](https://docs.google.com/document/d/136wMu5dmk323HlL58XdnMPJUq0MjJh5TdgERVfDgt0A/edit?tab=t.0)
+- **Assignment 4 Solution**: [View Solution](https://drive.google.com/file/d/1BfZsdcxzNJ8BQa2tRlfKOSxB7qGDxGo3/view?usp=drive_link) *(GSuite Access Required)*
+- **Assignment 5 Solution**: [View Solution](https://drive.google.com/file/d/1sEXWPrZf7muA43UH02D3QZLglp6GJ5HR/view?usp=drive_link) *(GSuite Access Required)*
+
+## 👨‍🏫 Faculty Resources
+
+### Aquib Azmain Sir
+- [Course Notes](https://docs.google.com/document/d/1Etnt2GUvRwcjQG1m0yZUozbjv488pCtuizeOM3KqIIQ/edit?tab=t.0)
+- [Additional Materials](https://drive.google.com/drive/folders/17-QizJALELypGv67sxp2jn6XnVds3Hvx?usp=drive_link)
+
+### Rafeed Rahman Sir
+- [Course Materials](https://docs.google.com/document/d/1iBB0qw32X-3nGlKcYcpWWIX0X0gQtUf4DEGzCzC9CLs/edit?tab=t.0)
+
+### Abhijit Biswas Sir
+- [Course Resources](https://drive.google.com/drive/folders/1aeukK_8Fmv3oniUc7vGbt6J5tOQA7C7_?usp=sharing)
+
+### Sadat Rafid Ahmed Sir
+- [Online Class Archive](https://saadat-r-ahmed.notion.site/Online-Class-Archive-SADF-19d658b6e40b80479ebec64a9d4de644)
+
+---
+
+> **Note**: Some resources require GSuite access. Make sure you're logged in with your institutional account to access restricted materials.
+
+---
+Answer from Perplexity: pplx.ai/share
 
 ## Caluculator methodologies
 Inverse of a Matrix: 
