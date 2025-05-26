@@ -66,7 +66,7 @@ To visualize the instructors' profiles on GitHub README, I'll create a professio
 
 ### Sadat Rafid Ahmed Sir
 - [Online Class Archive](https://saadat-r-ahmed.notion.site/Online-Class-Archive-SADF-19d658b6e40b80479ebec64a9d4de644)
-
+- [Online Class Archive 2](https://saadat-r-ahmed.notion.site/Online-Class-VM-Hermite-Cauchy-s-1ac658b6e40b807dbc10d253271f3754)
 ---
 
 > **Note**: Some resources require GSuite access. Make sure you're logged in with your institutional account to access restricted materials.
